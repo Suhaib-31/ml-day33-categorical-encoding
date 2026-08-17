@@ -1,0 +1,6 @@
+Name,Gender,Gender_Encoded,Department_Finance,Department_HR,Department_IT
+Ali,Male,1,False,False,True
+Ahmed,Male,1,False,True,False
+Sara,Female,0,True,False,False
+Ayesha,Female,0,False,False,True
+Bilal,Male,1,True,False,False
